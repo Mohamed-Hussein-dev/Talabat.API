@@ -1,0 +1,12 @@
+F:\Route Cours\API\Talabat\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+F:\Route Cours\API\Talabat\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+F:\Route Cours\API\Talabat\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+F:\Route Cours\API\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Route Cours\API\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+F:\Route Cours\API\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+F:\Route Cours\API\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+F:\Route Cours\API\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+F:\Route Cours\API\Talabat\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+F:\Route Cours\API\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+F:\Route Cours\API\Talabat\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+F:\Route Cours\API\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
