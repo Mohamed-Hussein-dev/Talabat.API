@@ -83,3 +83,4 @@ F:\Route Cours\API\Talabat\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Au
 F:\Route Cours\API\Talabat\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 F:\Route Cours\API\Talabat\Talabat.APIs\bin\Debug\net6.0\Talabat.Services.dll
 F:\Route Cours\API\Talabat\Talabat.APIs\bin\Debug\net6.0\Talabat.Services.pdb
+F:\Route Cours\API\Talabat\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.sourcelink.json
