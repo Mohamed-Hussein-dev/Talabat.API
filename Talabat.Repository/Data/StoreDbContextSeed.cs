@@ -55,6 +55,19 @@ namespace Talabat.Repository.Data
                     await dbContext.SaveChangesAsync();
                 }
             }
+
+            //seeding Delivery Methods
+            if (!dbContext.DeliveryMethods.Any())
+            {
+                var DeliveryMethodsData = File.ReadAllText("../Talabat.Repository/Data/Data Seed/delivery.json");
+                var DeliveryMethods = JsonSerializer.Deserialize<List<DeliveryMethod>>(DeliveryMethodsData);
+                if(DeliveryMethods?.Count() > 0)
+                {
+                    foreach(var DeliverMethod in DeliveryMethods)
+                           await dbContext.Set<DeliveryMethod>().AddAsync(DeliverMethod);
+                }
+                await dbContext.SaveChangesAsync();
+            }
         }
     }
 }

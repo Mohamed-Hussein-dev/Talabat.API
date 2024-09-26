@@ -9,7 +9,15 @@ namespace Talabat.Core.Entities
 {
     public class OrderItem : BaseEntity
     {
-       public ProductItemOrdered product { get; set; }
+        public OrderItem() { }
+        public OrderItem(ProductItemOrdered product, decimal price, int quantity)
+        {
+            this.product = product;
+            this.price = price;
+            this.quantity = quantity;
+        }
+
+        public ProductItemOrdered product { get; set; }
        public decimal price { get; set; }
        public int quantity { get; set; }
     }
